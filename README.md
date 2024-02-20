@@ -1,4 +1,4 @@
-roject Title: Sentiment Analysis for Movie Reviews
+Project Title: Sentiment Analysis for Movie Reviews
 
 Description:
 
